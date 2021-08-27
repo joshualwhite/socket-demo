@@ -1,0 +1,59 @@
+miniship - rapid tiny scale "battleship" in a tournament format - rotate 4x4 game boards and once you are
+sunk you after out
+
+categories
+    list items in a category, after 1/2 of the other players entered the item you lose 1 point,
+    gain more points for having it. If an item is entered (total player times) the points (+ and - are doubled)
+    At the end of each round an increasing number of items are displayed from a new category. 
+    Make a point wager and choose the "real" one
+
+    e.g. round 1.5 category: sports, options 2
+    e.g. round 2.5 category: provinces in canada, options 3
+    e.g. round 3.5 fruit: options 4
+    e.g. round 4.5 islands: islands, options 4
+
+horse racing 
+    cards flip quickly ( increasing in speeed from every 5 to every 2 seconds - up to 8 different cards/players )
+    as your card gets flipped you can use points to move others back, save points, or move yourself forward. 
+    If you don't press a button when your card is displayed you lose the energy point.
+    
+    One of the two below features would spice up the game. 
+        - you can "save" to stop someones button from pressing (3 points) - everyone knows that their button
+        was turned off
+        - you can "save" to swap two peoples cards, you can swap your cards and someone elses cards
+
+matching
+    everyone is asked a different random question, you have to match up who is who. You do not know if you get it 
+    correct or wrong. Earn points by not being guessed, and by guessing others. you get one mark a game - if you 
+    absolutely know the answer then you can "out" them in front of the group. You cannot use this on your turn. If you 
+    mark and get it wrong, you lose a point for every person who guessed it. 
+        
+        e.g. Question: What is your favorite category of alcoholic beverages?
+            - Josh : Whiskey
+            - Parker : Gin (random)
+            - Alec : Vodka (random)
+
+        Jagger is playing and knows I like whiskey, he marks "josh answer. Out of the other 4 players, 
+        3 choose "Josh" so Jagger earns +2 (getting it correct) + 6 (3 mark hits)
+        the other three players earn + 2 
+
+wrong answers only
+    1v1 answer incorrectly to a question - funniest answer wins (points given based on vote ratio)
+    - bonus round - correct answers 
+
+don't touch the bomb
+    cooperative murderous minesweeper, a board displays with bombs under (n) squares. Pick your sqare. 
+    Everyone gets to shift the board once in one direction (even if you are dead), if at the end of the round
+    if you are right you stay, if you are wrong you are out. Bombs increase as people die.
+
+tower builders
+    you are tasked with building a tower. Each round 5 blocks are in the center, one tile out of the (n) that will be
+    displayed will go first on the next round. You are trying to build a tower 10 tall. You are awarded more points
+    by having the same color in consective placements.  If you place a different colored block in 3 places, you can 
+    "paint" someone elses blocks - or your own - to change the color to one of the 5. If you place the same colored 
+    block 3 consective times you earn another block. You can use at most 3 different colors to build your tour, 
+    if you place three different, think fast if you don't make a move in 5 seconds, your tower will start to crumble.
+    If you placed a fourth color, your tower will also start to crumble. 
+        
+        - if you go first on a round you cannot go first again until players / 2 turns. 
+        - sabotage the others - take their blocks
